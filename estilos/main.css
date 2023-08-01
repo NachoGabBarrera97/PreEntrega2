@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(42, 42, 42);
+}
+.convertidor{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
